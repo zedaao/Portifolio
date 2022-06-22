@@ -107,7 +107,7 @@
   content: "";
   width: 24px;
   height: 24px;
-  background: url(./iamgme/crusosss.svg) no-repeat center center;
+  background: url(../iamgme/crusosss.svg) no-repeat center center;
   position: absolute;
   left: -36px;
 }
@@ -126,7 +126,7 @@
   content: "";
   width: 23px;
   height: 20px;
-  background: url(./iamgme/Idiomas.svg) no-repeat center center;
+  background: url(../iamgme/Idiomas.svg) no-repeat center center;
   position: absolute;
   left: -36px;
 }
